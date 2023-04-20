@@ -55,6 +55,7 @@ img {max-width: 100%;}
    max-width: 100%;
 }
 .carousel-heading{
+     font-family: 'JetBrains Mono', monospace;
   font-weight: bold;
   padding: 2%;
   font-size: 1.5rem;
